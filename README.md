@@ -1,6 +1,13 @@
-# SQL-Challenge
+# Building and Querying an Employee Database
 
-* Build an employee database to hold the data from six CSV files using SQL
-* Peform a series of SQL queries on the data
+Step 1:  Build an employee database from six CSV files
 
-Bonus:  Import the SQL database into Pandas and create some visualizations of the data
+* An ERD diagram was created to visualize the database design and outline the schema
+
+
+Step 2:  Perform a series of SQL queries on the data
+
+* Using pgAdmin, queries were performed on the data and including the following:
+
+
+Step 3:  The SQL database was imported into Pandas and visualizations of the data were created
