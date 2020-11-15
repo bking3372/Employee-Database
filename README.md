@@ -24,3 +24,4 @@ Step 3:  Import the SQL database into Pandas and create data visualizations
     
     -  A bar chart of the average salary by title
 
+    ![Bar](https://github.com/bking3372/Employee-Database/blob/master/EmployeeSQL/images/Avg%20Salary%20by%20Title.PNG)
