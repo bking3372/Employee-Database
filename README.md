@@ -5,6 +5,7 @@ Step 1:  Build an employee database from six CSV files
 * An ERD diagram was created to visualize the database design and outline the schema specifying data types, primary and foreign keys, and any constraints
 * Using the ERD schema and the CSV files, the employee database was created in pgAdmin
 
+![ERD Image](https://github.com/bking3372/Employee-Database/blob/master/EmployeeSQL/images/ERD%20Diagram.PNG)
 
 Step 2:  Perform a series of SQL queries on the data
 
@@ -18,5 +19,8 @@ Step 3:  Import the SQL database into Pandas and create data visualizations
 
 *  These data visualizations included:
     -  A histogram of salary ranges
+    
+    ![Histogram](https://github.com/bking3372/Employee-Database/blob/master/EmployeeSQL/images/Salary%20Histogram.PNG)
+    
     -  A bar chart of the average salary by title
 
